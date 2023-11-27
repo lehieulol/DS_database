@@ -1,15 +1,12 @@
 INFO:WDM:====== WebDriver manager ======
 INFO:WDM:Get LATEST chromedriver version for google-chrome
 INFO:WDM:Get LATEST chromedriver version for google-chrome
-INFO:WDM:Driver [C:\Users\HH\.wdm\drivers\chromedriver\win64\119.0.6045.105\chromedriver-win32/chromedriver.exe] found in cache
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:WebDriver version 119.0.6045.105 selected
+INFO:WDM:Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win32/chromedriver-win32.zip
+INFO:WDM:About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/119.0.6045.105/win32/chromedriver-win32.zip
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver has been saved in cache [C:\Users\HH\.wdm\drivers\chromedriver\win64\119.0.6045.105]
 INFO:MainController:Crawling ho-chi-minh-city -> da-nang on 2021-01-01 with economy class
 INFO:MainController:Crawling ho-chi-minh-city -> da-nang on 2021-01-02 with economy class
-INFO:MainController:Crawling ho-chi-minh-city -> hanoi on 2021-01-01 with economy class
-INFO:MainController:Crawling ho-chi-minh-city -> hanoi on 2021-01-02 with economy class
-INFO:MainController:Crawling ho-chi-minh-city -> phu-quoc-island on 2021-01-01 with economy class
-WARNING:FlightInfoGetter:No flights with query: ('ho', 'minh', 'pqc', '2021-01-01', '2021-01-03', 'ow').
-INFO:MainController:Crawling ho-chi-minh-city -> phu-quoc-island on 2021-01-02 with economy class
-INFO:MainController:Crawling ho-chi-minh-city -> nha-trang on 2021-01-01 with economy class
-INFO:MainController:Crawling ho-chi-minh-city -> nha-trang on 2021-01-02 with economy class
-INFO:MainController:Crawling ho-chi-minh-city -> hue on 2021-01-01 with economy class
-INFO:MainController:Crawling ho-chi-minh-city -> hue on 2021-01-02 with economy class
