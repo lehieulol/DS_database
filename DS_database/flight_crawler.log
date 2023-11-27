@@ -235,3 +235,5 @@ INFO:MainController:Crawling hue -> Can-tho on 2021-01-01 with economy class
 INFO:MainController:Crawling hue -> Can-tho on 2021-01-02 with economy class
 INFO:MainController:Crawling hue -> dien-bien-phu on 2021-01-01 with economy class
 INFO:MainController:Crawling hue -> dien-bien-phu on 2021-01-02 with economy class
+INFO:MainController:Crawling vinh -> ho-chi-minh-city on 2021-01-01 with economy class
+INFO:MainController:Crawling vinh -> ho-chi-minh-city on 2021-01-02 with economy class
