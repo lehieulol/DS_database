@@ -97,3 +97,5 @@ INFO:MainController:Crawling hanoi -> dong-hoi on 2021-01-01 with economy class
 INFO:MainController:Crawling hanoi -> dong-hoi on 2021-01-02 with economy class
 INFO:MainController:Crawling hanoi -> chu-lai on 2021-01-01 with economy class
 INFO:MainController:Crawling hanoi -> chu-lai on 2021-01-02 with economy class
+INFO:MainController:Crawling hanoi -> pleiku on 2021-01-01 with economy class
+INFO:MainController:Crawling hanoi -> pleiku on 2021-01-02 with economy class
