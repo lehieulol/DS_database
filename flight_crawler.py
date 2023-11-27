@@ -124,7 +124,7 @@ def save_info(info, filename):
 
 
 def github_login():
-    auth = Auth.Token("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")
+    auth = Auth.Token("redacted")
     g = Github(auth=auth)
 
     repo = g.get_user().get_repo('DS_database')
