@@ -14,3 +14,5 @@ INFO:MainController:Crawling ho-chi-minh-city -> hanoi on 2021-01-01 with econom
 INFO:MainController:Crawling ho-chi-minh-city -> hanoi on 2021-01-02 with economy class
 INFO:MainController:Crawling ho-chi-minh-city -> phu-quoc-island on 2021-01-01 with economy class
 INFO:MainController:Crawling ho-chi-minh-city -> phu-quoc-island on 2021-01-02 with economy class
+INFO:MainController:Crawling ho-chi-minh-city -> nha-trang on 2021-01-01 with economy class
+INFO:MainController:Crawling ho-chi-minh-city -> nha-trang on 2021-01-02 with economy class
