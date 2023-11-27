@@ -285,3 +285,5 @@ INFO:MainController:Crawling haiphong -> phu-quoc-island on 2021-01-01 with econ
 INFO:MainController:Crawling haiphong -> phu-quoc-island on 2021-01-02 with economy class
 INFO:MainController:Crawling haiphong -> nha-trang on 2021-01-01 with economy class
 INFO:MainController:Crawling haiphong -> nha-trang on 2021-01-02 with economy class
+INFO:MainController:Crawling haiphong -> hue on 2021-01-01 with economy class
+INFO:MainController:Crawling haiphong -> hue on 2021-01-02 with economy class
