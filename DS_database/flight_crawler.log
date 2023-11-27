@@ -182,3 +182,6 @@ INFO:MainController:Crawling nha-trang -> rach-gia on 2021-01-01 with economy cl
 WARNING:FlightInfoGetter:No flights with query: ('nha', 'to', 'vkg', '2021-01-01', '2021-01-03', 'ow').
 INFO:MainController:Crawling nha-trang -> rach-gia on 2021-01-02 with economy class
 WARNING:FlightInfoGetter:No flights with query: ('nha', 'to', 'vkg', '2021-01-02', '2021-01-04', 'ow').
+INFO:MainController:Crawling nha-trang -> ca-mau on 2021-01-01 with economy class
+WARNING:FlightInfoGetter:No flights with query: ('nha', 'to', 'cah', '2021-01-01', '2021-01-03', 'ow').
+INFO:MainController:Crawling nha-trang -> ca-mau on 2021-01-02 with economy class
