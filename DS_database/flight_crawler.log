@@ -174,3 +174,7 @@ INFO:MainController:Crawling nha-trang -> chu-lai on 2021-01-01 with economy cla
 INFO:MainController:Crawling nha-trang -> chu-lai on 2021-01-02 with economy class
 INFO:MainController:Crawling nha-trang -> pleiku on 2021-01-01 with economy class
 INFO:MainController:Crawling nha-trang -> pleiku on 2021-01-02 with economy class
+INFO:MainController:Crawling nha-trang -> buon-ma-thuot on 2021-01-01 with economy class
+WARNING:FlightInfoGetter:No flights with query: ('nha', 'to', 'bmv', '2021-01-01', '2021-01-03', 'ow').
+INFO:MainController:Crawling nha-trang -> buon-ma-thuot on 2021-01-02 with economy class
+WARNING:FlightInfoGetter:No flights with query: ('nha', 'to', 'bmv', '2021-01-02', '2021-01-04', 'ow').
