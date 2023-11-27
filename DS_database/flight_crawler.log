@@ -215,3 +215,5 @@ WARNING:FlightInfoGetter:No flights with query: ('hue', 'haiphong', 'hph', '2021
 INFO:MainController:Crawling hue -> haiphong on 2021-01-02 with economy class
 INFO:MainController:Crawling hue -> dong-hoi on 2021-01-01 with economy class
 INFO:MainController:Crawling hue -> dong-hoi on 2021-01-02 with economy class
+INFO:MainController:Crawling hue -> chu-lai on 2021-01-01 with economy class
+INFO:MainController:Crawling hue -> chu-lai on 2021-01-02 with economy class
