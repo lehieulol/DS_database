@@ -198,3 +198,7 @@ INFO:MainController:Crawling nha-trang -> dien-bien-phu on 2021-01-01 with econo
 INFO:MainController:Crawling nha-trang -> dien-bien-phu on 2021-01-02 with economy class
 INFO:MainController:Crawling hue -> ho-chi-minh-city on 2021-01-01 with economy class
 INFO:MainController:Crawling hue -> ho-chi-minh-city on 2021-01-02 with economy class
+INFO:MainController:Crawling hue -> da-nang on 2021-01-01 with economy class
+WARNING:FlightInfoGetter:No flights with query: ('hue', 'da', 'dad', '2021-01-01', '2021-01-03', 'ow').
+INFO:MainController:Crawling hue -> da-nang on 2021-01-02 with economy class
+WARNING:FlightInfoGetter:No flights with query: ('hue', 'da', 'dad', '2021-01-02', '2021-01-04', 'ow').
