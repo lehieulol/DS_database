@@ -79,3 +79,5 @@ INFO:MainController:Crawling da-nang -> dien-bien-phu on 2021-01-01 with economy
 INFO:MainController:Crawling da-nang -> dien-bien-phu on 2021-01-02 with economy class
 INFO:MainController:Crawling hanoi -> ho-chi-minh-city on 2021-01-01 with economy class
 INFO:MainController:Crawling hanoi -> ho-chi-minh-city on 2021-01-02 with economy class
+INFO:MainController:Crawling hanoi -> da-nang on 2021-01-01 with economy class
+INFO:MainController:Crawling hanoi -> da-nang on 2021-01-02 with economy class
