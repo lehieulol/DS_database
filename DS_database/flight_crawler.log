@@ -292,3 +292,5 @@ INFO:MainController:Crawling haiphong -> vinh on 2021-01-02 with economy class
 INFO:MainController:Crawling haiphong -> dong-hoi on 2021-01-01 with economy class
 WARNING:FlightInfoGetter:No flights with query: ('haiphong', 'dong', 'vdh', '2021-01-01', '2021-01-03', 'ow').
 INFO:MainController:Crawling haiphong -> dong-hoi on 2021-01-02 with economy class
+INFO:MainController:Crawling haiphong -> chu-lai on 2021-01-01 with economy class
+INFO:MainController:Crawling haiphong -> chu-lai on 2021-01-02 with economy class
