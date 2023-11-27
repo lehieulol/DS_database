@@ -237,3 +237,5 @@ INFO:MainController:Crawling hue -> dien-bien-phu on 2021-01-01 with economy cla
 INFO:MainController:Crawling hue -> dien-bien-phu on 2021-01-02 with economy class
 INFO:MainController:Crawling vinh -> ho-chi-minh-city on 2021-01-01 with economy class
 INFO:MainController:Crawling vinh -> ho-chi-minh-city on 2021-01-02 with economy class
+INFO:MainController:Crawling vinh -> da-nang on 2021-01-01 with economy class
+INFO:MainController:Crawling vinh -> da-nang on 2021-01-02 with economy class
