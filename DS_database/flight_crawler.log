@@ -273,3 +273,5 @@ INFO:MainController:Crawling vinh -> Can-tho on 2021-01-01 with economy class
 INFO:MainController:Crawling vinh -> Can-tho on 2021-01-02 with economy class
 INFO:MainController:Crawling vinh -> dien-bien-phu on 2021-01-01 with economy class
 INFO:MainController:Crawling vinh -> dien-bien-phu on 2021-01-02 with economy class
+INFO:MainController:Crawling haiphong -> ho-chi-minh-city on 2021-01-01 with economy class
+INFO:MainController:Crawling haiphong -> ho-chi-minh-city on 2021-01-02 with economy class
