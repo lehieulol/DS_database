@@ -160,3 +160,5 @@ INFO:MainController:Crawling nha-trang -> da-nang on 2021-01-01 with economy cla
 INFO:MainController:Crawling nha-trang -> da-nang on 2021-01-02 with economy class
 INFO:MainController:Crawling nha-trang -> hanoi on 2021-01-01 with economy class
 INFO:MainController:Crawling nha-trang -> hanoi on 2021-01-02 with economy class
+INFO:MainController:Crawling nha-trang -> phu-quoc-island on 2021-01-01 with economy class
+INFO:MainController:Crawling nha-trang -> phu-quoc-island on 2021-01-02 with economy class
