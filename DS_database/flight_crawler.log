@@ -225,3 +225,5 @@ INFO:MainController:Crawling hue -> rach-gia on 2021-01-01 with economy class
 WARNING:FlightInfoGetter:No flights with query: ('hue', 'rach', 'vkg', '2021-01-01', '2021-01-03', 'ow').
 INFO:MainController:Crawling hue -> rach-gia on 2021-01-02 with economy class
 WARNING:FlightInfoGetter:No flights with query: ('hue', 'rach', 'vkg', '2021-01-02', '2021-01-04', 'ow').
+INFO:MainController:Crawling hue -> ca-mau on 2021-01-01 with economy class
+INFO:MainController:Crawling hue -> ca-mau on 2021-01-02 with economy class
