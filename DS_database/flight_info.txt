@@ -3597,3 +3597,6 @@
 {'brand': 'Vietnam Airlines', 'dtime': '10:00', 'flytime': '11g 15p', 'atime': '21:15', 'price': 4436000, 'crawl_date': '2023-11-28', 'dcity': 'hanoi', 'acity': 'vinh', 'flight_type': 'oneway', 'class_type': 'economy'}
 {'brand': 'Vietnam Airlines', 'dtime': '22:00', 'flytime': '10g 35p', 'atime': '08:35', 'price': 7383000, 'crawl_date': '2023-11-28', 'dcity': 'hanoi', 'acity': 'vinh', 'flight_type': 'oneway', 'class_type': 'economy'}
 {'brand': 'Vietnam Airlines', 'dtime': '20:00', 'flytime': '12g 35p', 'atime': '08:35', 'price': 7572000, 'crawl_date': '2023-11-28', 'dcity': 'hanoi', 'acity': 'vinh', 'flight_type': 'oneway', 'class_type': 'economy'}
+{'brand': 'Vietnam Airlines', 'dtime': '09:05', 'flytime': '1g 5p', 'atime': '10:10', 'price': 1289000, 'crawl_date': '2023-11-28', 'dcity': 'hanoi', 'acity': 'dong-hoi', 'flight_type': 'oneway', 'class_type': 'economy'}
+{'brand': 'Vietnam Airlines', 'dtime': '09:05', 'flytime': '1g 5p', 'atime': '10:10', 'price': 1150000, 'crawl_date': '2023-11-28', 'dcity': 'hanoi', 'acity': 'dong-hoi', 'flight_type': 'oneway', 'class_type': 'economy'}
+{'brand': 'Vietnam Airlines', 'dtime': '10:00', 'flytime': '8g 10p', 'atime': '18:10', 'price': 7294000, 'crawl_date': '2023-11-28', 'dcity': 'hanoi', 'acity': 'dong-hoi', 'flight_type': 'oneway', 'class_type': 'economy'}
