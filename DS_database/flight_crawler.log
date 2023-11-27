@@ -249,3 +249,6 @@ INFO:MainController:Crawling vinh -> hue on 2021-01-01 with economy class
 INFO:MainController:Crawling vinh -> hue on 2021-01-02 with economy class
 INFO:MainController:Crawling vinh -> haiphong on 2021-01-01 with economy class
 INFO:MainController:Crawling vinh -> haiphong on 2021-01-02 with economy class
+INFO:MainController:Crawling vinh -> dong-hoi on 2021-01-01 with economy class
+WARNING:FlightInfoGetter:No flights with query: ('vinh', 'dong', 'vdh', '2021-01-01', '2021-01-03', 'ow').
+INFO:MainController:Crawling vinh -> dong-hoi on 2021-01-02 with economy class
