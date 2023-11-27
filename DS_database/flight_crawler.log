@@ -241,3 +241,5 @@ INFO:MainController:Crawling vinh -> da-nang on 2021-01-01 with economy class
 INFO:MainController:Crawling vinh -> da-nang on 2021-01-02 with economy class
 INFO:MainController:Crawling vinh -> hanoi on 2021-01-01 with economy class
 INFO:MainController:Crawling vinh -> hanoi on 2021-01-02 with economy class
+INFO:MainController:Crawling vinh -> phu-quoc-island on 2021-01-01 with economy class
+INFO:MainController:Crawling vinh -> phu-quoc-island on 2021-01-02 with economy class
