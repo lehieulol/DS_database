@@ -121,3 +121,6 @@ INFO:MainController:Crawling phu-quoc-island -> da-nang on 2021-01-01 with econo
 INFO:MainController:Crawling phu-quoc-island -> da-nang on 2021-01-02 with economy class
 INFO:MainController:Crawling phu-quoc-island -> hanoi on 2021-01-01 with economy class
 INFO:MainController:Crawling phu-quoc-island -> hanoi on 2021-01-02 with economy class
+INFO:MainController:Crawling phu-quoc-island -> nha-trang on 2021-01-01 with economy class
+WARNING:FlightInfoGetter:No flights with query: ('phu', 'island', 'cxr', '2021-01-01', '2021-01-03', 'ow').
+INFO:MainController:Crawling phu-quoc-island -> nha-trang on 2021-01-02 with economy class
