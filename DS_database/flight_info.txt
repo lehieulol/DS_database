@@ -2504,3 +2504,5 @@
 {'brand': 'VietJet Air', 'dtime': '05:20', 'flytime': '1g', 'atime': '06:20', 'price': 665000, 'crawl_date': '2023-11-28', 'dcity': 'ho-chi-minh-city', 'acity': 'buon-ma-thuot', 'flight_type': 'oneway', 'class_type': 'economy'}
 {'brand': 'VietJet Air', 'dtime': '16:20', 'flytime': '1g', 'atime': '17:20', 'price': 893000, 'crawl_date': '2023-11-28', 'dcity': 'ho-chi-minh-city', 'acity': 'buon-ma-thuot', 'flight_type': 'oneway', 'class_type': 'economy'}
 {'brand': 'Vietnam Airlines', 'dtime': '18:15', 'flytime': '1g 5p', 'atime': '19:20', 'price': 1175000, 'crawl_date': '2023-11-28', 'dcity': 'ho-chi-minh-city', 'acity': 'buon-ma-thuot', 'flight_type': 'oneway', 'class_type': 'economy'}
+{'brand': 'Vietnam Airlines', 'dtime': '05:15', 'flytime': '50p', 'atime': '06:05', 'price': 1036000, 'crawl_date': '2023-11-28', 'dcity': 'ho-chi-minh-city', 'acity': 'rach-gia', 'flight_type': 'oneway', 'class_type': 'economy'}
+{'brand': 'Vietnam Airlines', 'dtime': '05:15', 'flytime': '50p', 'atime': '06:05', 'price': 1036000, 'crawl_date': '2023-11-28', 'dcity': 'ho-chi-minh-city', 'acity': 'rach-gia', 'flight_type': 'oneway', 'class_type': 'economy'}
