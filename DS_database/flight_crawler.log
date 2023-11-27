@@ -52,3 +52,6 @@ INFO:MainController:Crawling da-nang -> vinh on 2021-01-01 with economy class
 INFO:MainController:Crawling da-nang -> vinh on 2021-01-02 with economy class
 INFO:MainController:Crawling da-nang -> haiphong on 2021-01-01 with economy class
 INFO:MainController:Crawling da-nang -> haiphong on 2021-01-02 with economy class
+INFO:MainController:Crawling da-nang -> dong-hoi on 2021-01-01 with economy class
+WARNING:FlightInfoGetter:No flights with query: ('da', 'to', 'vdh', '2021-01-01', '2021-01-03', 'ow').
+INFO:MainController:Crawling da-nang -> dong-hoi on 2021-01-02 with economy class
