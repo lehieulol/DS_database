@@ -18,3 +18,5 @@ INFO:MainController:Crawling ho-chi-minh-city -> haiphong on 2021-01-01 with eco
 INFO:MainController:Crawling ho-chi-minh-city -> haiphong on 2021-01-02 with economy class
 INFO:MainController:Crawling ho-chi-minh-city -> dong-hoi on 2021-01-01 with economy class
 INFO:MainController:Crawling ho-chi-minh-city -> dong-hoi on 2021-01-02 with economy class
+INFO:MainController:Crawling ho-chi-minh-city -> chu-lai on 2021-01-01 with economy class
+INFO:MainController:Crawling ho-chi-minh-city -> chu-lai on 2021-01-02 with economy class
