@@ -101,3 +101,7 @@ INFO:MainController:Crawling hanoi -> pleiku on 2021-01-01 with economy class
 INFO:MainController:Crawling hanoi -> pleiku on 2021-01-02 with economy class
 INFO:MainController:Crawling hanoi -> buon-ma-thuot on 2021-01-01 with economy class
 INFO:MainController:Crawling hanoi -> buon-ma-thuot on 2021-01-02 with economy class
+INFO:MainController:Crawling hanoi -> rach-gia on 2021-01-01 with economy class
+WARNING:FlightInfoGetter:No flights with query: ('hanoi', 'rach', 'vkg', '2021-01-01', '2021-01-03', 'ow').
+INFO:MainController:Crawling hanoi -> rach-gia on 2021-01-02 with economy class
+WARNING:FlightInfoGetter:No flights with query: ('hanoi', 'rach', 'vkg', '2021-01-02', '2021-01-04', 'ow').
