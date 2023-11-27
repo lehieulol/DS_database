@@ -113,3 +113,5 @@ INFO:MainController:Crawling hanoi -> Da-lat on 2021-01-01 with economy class
 INFO:MainController:Crawling hanoi -> Da-lat on 2021-01-02 with economy class
 INFO:MainController:Crawling hanoi -> Can-tho on 2021-01-01 with economy class
 INFO:MainController:Crawling hanoi -> Can-tho on 2021-01-02 with economy class
+INFO:MainController:Crawling hanoi -> dien-bien-phu on 2021-01-01 with economy class
+INFO:MainController:Crawling hanoi -> dien-bien-phu on 2021-01-02 with economy class
