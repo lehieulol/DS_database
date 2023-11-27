@@ -69,3 +69,5 @@ INFO:MainController:Crawling da-nang -> rach-gia on 2021-01-02 with economy clas
 WARNING:FlightInfoGetter:No flights with query: ('da', 'to', 'vkg', '2021-01-02', '2021-01-04', 'ow').
 INFO:MainController:Crawling da-nang -> ca-mau on 2021-01-01 with economy class
 INFO:MainController:Crawling da-nang -> ca-mau on 2021-01-02 with economy class
+INFO:MainController:Crawling da-nang -> con-dao-island on 2021-01-01 with economy class
+INFO:MainController:Crawling da-nang -> con-dao-island on 2021-01-02 with economy class
