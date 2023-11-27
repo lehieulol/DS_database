@@ -152,3 +152,5 @@ INFO:MainController:Crawling phu-quoc-island -> Can-tho on 2021-01-01 with econo
 WARNING:FlightInfoGetter:No flights with query: ('phu', 'island', 'vca', '2021-01-01', '2021-01-03', 'ow').
 INFO:MainController:Crawling phu-quoc-island -> Can-tho on 2021-01-02 with economy class
 WARNING:FlightInfoGetter:No flights with query: ('phu', 'island', 'vca', '2021-01-02', '2021-01-04', 'ow').
+INFO:MainController:Crawling phu-quoc-island -> dien-bien-phu on 2021-01-01 with economy class
+INFO:MainController:Crawling phu-quoc-island -> dien-bien-phu on 2021-01-02 with economy class
