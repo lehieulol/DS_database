@@ -144,3 +144,5 @@ INFO:MainController:Crawling phu-quoc-island -> rach-gia on 2021-01-02 with econ
 WARNING:FlightInfoGetter:No flights with query: ('phu', 'island', 'vkg', '2021-01-02', '2021-01-04', 'ow').
 INFO:MainController:Crawling phu-quoc-island -> ca-mau on 2021-01-01 with economy class
 INFO:MainController:Crawling phu-quoc-island -> ca-mau on 2021-01-02 with economy class
+INFO:MainController:Crawling phu-quoc-island -> con-dao-island on 2021-01-01 with economy class
+INFO:MainController:Crawling phu-quoc-island -> con-dao-island on 2021-01-02 with economy class
