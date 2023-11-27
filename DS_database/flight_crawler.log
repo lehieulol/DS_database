@@ -204,3 +204,5 @@ INFO:MainController:Crawling hue -> da-nang on 2021-01-02 with economy class
 WARNING:FlightInfoGetter:No flights with query: ('hue', 'da', 'dad', '2021-01-02', '2021-01-04', 'ow').
 INFO:MainController:Crawling hue -> hanoi on 2021-01-01 with economy class
 INFO:MainController:Crawling hue -> hanoi on 2021-01-02 with economy class
+INFO:MainController:Crawling hue -> phu-quoc-island on 2021-01-01 with economy class
+INFO:MainController:Crawling hue -> phu-quoc-island on 2021-01-02 with economy class
