@@ -1,5 +1,6 @@
 # Group 20: Airline Flight Analysis and Prediction
 ## Crawler:
+Data crawling can be done by running `DataScaper/Scaper.py`. Destination for gathered data is the folder `Database`.
 ## Data Preprocessing, Cleaning and Exploratory Analysis:
 After gathering data in `Database` folder, `PreprocessingAndEDA` should be checked:
 * Raw data cleaning should first be done by running `data_cleaning.ipynb`.
